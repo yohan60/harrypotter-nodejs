@@ -1,0 +1,18 @@
+{
+  "name": "harrypotter-nodejs",
+  "version": "1.0.0",
+  "description": "API Harry Potter",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Nourry Yohan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "uuid": "^10.0.0"
+  }
+}
